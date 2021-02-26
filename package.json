@@ -1,0 +1,15 @@
+{
+  "name": "poc-redwood-yargs-parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier Lance",
+  "license": "MIT"
+}
